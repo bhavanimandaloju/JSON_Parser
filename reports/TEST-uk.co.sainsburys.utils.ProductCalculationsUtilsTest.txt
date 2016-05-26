@@ -1,0 +1,16 @@
+Testsuite: uk.co.sainsburys.utils.ProductCalculationsUtilsTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.308 sec
+
+------------- Standard Output ---------------
+Parsing available Sainsbury's products URLS...
+Sainsbury's available Products URLs parsed successfully...
+Processing Product: Sainsbury's Apricot Ripe & Ready x5
+Processing Product: Sainsbury's Avocado Ripe & Ready XL Loose 300g
+Processing Product: Sainsbury's Avocado, Ripe & Ready x2
+Processing Product: Sainsbury's Avocados, Ripe & Ready x4
+Processing Product: Sainsbury's Conference Pears, Ripe & Ready x4 (minimum)
+Processing Product: Sainsbury's Golden Kiwi x4
+Processing Product: Sainsbury's Kiwi Fruit, Ripe & Ready x4
+Calculating the products unit price sum...
+Products unit price sum calculated...
+------------- ---------------- ---------------
